@@ -5,9 +5,9 @@
 
 ### Screenshot
 
-![Sufee admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/sufee-free-modern-admin-dashboard-template.jpg)
+![Sufee admin dashboard template preview](https://gerenciamentogea.000webhostapp.com/sgd/login.html)
 
-### Demo Site: [Here](https://colorlib.com/polygon/sufee/index.html)
+### Demo Site: [Here](https://gerenciamentogea.000webhostapp.com/sgd/login.html)
 
 ### TOC
 - [Built With](#built-with)
