@@ -1,11 +1,13 @@
-# Sufee HTML5 Admin Dashboard Template
-**Sufee** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://gerenciamentogea.000webhostapp.com/sgd/login.html
+# Sistema de Gerenciamento SGD
+Protótipo do Sistema de Gerenciamento de Demandas
+
+: https://gerenciamentogea.000webhostapp.com/sgd/login.html
 
 # Prévia Tela Principal
 
 ### Imagem
 
-![Sufee admin dashboard template preview](https://gerenciamentogea.000webhostapp.com/sgd/tela_principal.PNG)
+(https://gerenciamentogea.000webhostapp.com/sgd/tela_principal.PNG)
 
 
 
