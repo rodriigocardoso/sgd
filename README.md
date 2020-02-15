@@ -7,7 +7,7 @@ Protótipo do Sistema de Gerenciamento de Demandas
 
 ### Imagem
 
-(https://gerenciamentogea.000webhostapp.com/sgd/tela_principal.PNG)
+![Sufee admin dashboard template preview](https://gerenciamentogea.000webhostapp.com/sgd/tela_principal.PNG)
 
 
 
