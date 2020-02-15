@@ -5,7 +5,7 @@
 
 ### Imagem
 
-![Sufee admin dashboard template preview](hhttps://github.com/rodriigocardoso/sgd/tela_principal.PNG)
+![Sufee admin dashboard template preview](https://github.com/rodriigocardoso/sgd/tela_principal.PNG)
 
 
 
