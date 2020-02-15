@@ -13,27 +13,17 @@ Protótipo do Sistema de Gerenciamento de Demandas
 
 ### Demo Site: [Here](https://gerenciamentogea.000webhostapp.com/sgd/login.html)
 
-### TOC
-- [Built With](#built-with)
-- [Changelog](#changelog)
-- [Authors](#authors)
-- [License](#license)
 
-### Built With
+### Protótico desenvolvido com as seguintes ferramentas
 
-- [Sass](http://sass-lang.com/)
+- [colorlib.com](https://colorlib.com/wp/template)
 - [Bootstrap](http://getbootstrap.com/)
-- [Chart.js](http://www.chartjs.org/)
 - [jQuery](https://jquery.com/)
-- [Popper.js](https://popper.js.org/)
-- [Chosen](https://harvesthq.github.io/chosen/)
 - [dataTables](https://datatables.net/)
-- [Flot Charts](http://www.flotcharts.org/)
-- [gauge.js](http://bernii.github.io/gauge.js/)
-- [Peity](http://benpickles.github.io/peity/)
-- [Load Google Maps API](https://github.com/yuanqing/load-google-maps-api)
-- [JQVMap](https://jqvmap.com/)
-- [Fontawesome](http://fontawesome.io/)
+- [googlechart](https://developers.google.com/chart)
+- [PHP](https://www.php.net/manual/pt_BR/intro-whatis.php)
+- [mysql](https://www.mysql.com/)
+- [000webhost](https://www.000webhost.com/)
 
 
 
