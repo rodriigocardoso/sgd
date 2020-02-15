@@ -5,7 +5,9 @@
 
 ### Imagem
 
-https://github.com/rodriigocardoso/sgd/tela_principal.PNG
+![Sufee admin dashboard template preview](hhttps://github.com/rodriigocardoso/sgd/tela_principal.PNG)
+
+
 
 ### Demo Site: [Here](https://gerenciamentogea.000webhostapp.com/sgd/login.html)
 
